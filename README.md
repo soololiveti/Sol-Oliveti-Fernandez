@@ -37,8 +37,8 @@ Estudiar **Ingeniería en Sistemas de Información** en la **UTN** y seguir form
 
 ## 📊 GitHub Stats
 
-![Sol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sololiveti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sololiveti&layout=compact&theme=radical)
+![Sol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soololiveti&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soololiveti&layout=compact&theme=radical)
 
 ---
 
