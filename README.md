@@ -21,14 +21,15 @@
 - MySQL
 
 ### 🧠 Otros lenguajes:
-- C
 - Java
+- C
 - Python *(aprendiendo)*
 
 ### 🛠️ Herramientas:
 - Git & GitHub
 - Canva
-- Word, Excel, PowerPoint (Paquete Office)
+- UMLetino
+- Word, Excel, PowerPoint, Access (Paquete Office)
 
 ---
 
@@ -57,7 +58,7 @@ Estoy abierta a colaborar en proyectos, practicar nuevas tecnologías y aprender
 No dudes en contactarme o seguirme en mis redes:
 
 - 📧 **Email:** *sololiveti@gmail.com*
-- 💼 [LinkedIn]((https://www.linkedin.com/in/sol-oliveti-fern%C3%A1ndez-066a0335b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sol-oliveti-fern%C3%A1ndez-066a0335b/)
 - 🌐 [Portfolio](https://github.com/sololiveti) *(en construcción)*
 
 ---
