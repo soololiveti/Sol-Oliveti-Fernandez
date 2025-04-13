@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Tecnologías
 
 ### 💻 Frontend:
 - HTML
@@ -28,7 +28,7 @@
 ### 🛠️ Herramientas:
 - Git & GitHub
 - Canva
-- Word, Excel, PowerPoint
+- Word, Excel, PowerPoint (Paquete Office)
 
 ---
 
@@ -56,8 +56,8 @@ Estudiar **Ingeniería en Sistemas de Información** en la **UTN** y seguir form
 Estoy abierta a colaborar en proyectos, practicar nuevas tecnologías y aprender en comunidad.  
 No dudes en contactarme o seguirme en mis redes:
 
-- 📧 **Email:** *[tu-email]*
-- 💼 [LinkedIn](https://www.linkedin.com/in/sol-oliveti)
+- 📧 **Email:** *sololiveti@gmail.com*
+- 💼 [LinkedIn]((https://www.linkedin.com/in/sol-oliveti-fern%C3%A1ndez-066a0335b/))
 - 🌐 [Portfolio](https://github.com/sololiveti) *(en construcción)*
 
 ---
